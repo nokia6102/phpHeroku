@@ -1,5 +1,5 @@
 <?php phpinfo();?>
-<?php $a=1;$b=2>
+<?php $a=1;$b=2;?>
 test
 
-<?php $a+$b ?>
+<?php echo"Ans: $a+$b"; ?>
